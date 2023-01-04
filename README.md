@@ -1,3 +1,4 @@
+<p align="center"><a href="https://ibb.co/xsNbWm2"><img src="https://i.ibb.co/X4qP1yW/Corporate-Linked-In-Banner.jpg" alt="Corporate-Linked-In-Banner" width="800" border="0"></a></p>
 <h1 align="center">Hi 👋, I'm Pasindu Malinda Waidyarathna</h1>
 <p align="left"> <a href="https://twitter.com/malindapasindu1" target="blank"><img src="https://img.shields.io/twitter/follow/malindapasindu1?logo=twitter&style=for-the-badge" alt="malindapasindu1" /></a> </p>
 
